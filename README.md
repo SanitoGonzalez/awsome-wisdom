@@ -1,4 +1,4 @@
-# awsome-wisdom
+# Awsome Wisdom
 A curated list of wisdom for life.
 
 # Dream
